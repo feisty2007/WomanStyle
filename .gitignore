@@ -13,5 +13,5 @@
 *.a
 *
 # Debug or Release files
-Debug/*.*
-Release/*.*
+Debug/*
+Release/*
