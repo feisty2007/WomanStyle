@@ -232,7 +232,8 @@ HCURSOR CXinggeDlg::OnQueryDragIcon()
 
 void CXinggeDlg::SetTestResult(int i)
 {
-  if(x<0 || x>9) return;
+	if(i<0 || i>9) 
+		return;
   
 	WomenXingge wx = m_xingges[i];
 

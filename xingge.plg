@@ -6,6 +6,17 @@
 --------------------Configuration: xingge - Win32 Release--------------------
 </h3>
 <h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1.PC-\AppData\Local\Temp\RSPF467.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/xingge.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Users\Administrator.PC-20120809OVQM\Documents\GitHub\WomanStyle\xinggeDlg.cpp"
+]
+Creating command line "cl.exe @"C:\Users\ADMINI~1.PC-\AppData\Local\Temp\RSPF467.tmp"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/xingge.pdb" /machine:I386 /out:"Release/xingge.exe"  ".\Release\StdAfx.obj" ".\Release\WomenXingge.obj" ".\Release\xingge.obj" ".\Release\xinggeDlg.obj" ".\Release\xingge.res" "
+<h3>Output Window</h3>
+Compiling...
+xinggeDlg.cpp
+Linking...
 
 
 
